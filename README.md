@@ -75,4 +75,6 @@ Este projeto foi desenvolvido com as seguintes tecnologias:
 
 ## Imagens do Projeto
 
-![image](https://ibb.co/bjwwyFqj)
+## Imagens do Projeto
+
+![Imagem do Projeto](img/page.png)
