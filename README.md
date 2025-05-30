@@ -75,6 +75,4 @@ Este projeto foi desenvolvido com as seguintes tecnologias:
 
 ## Imagens do Projeto
 
-## Imagens do Projeto
-
 ![Imagem do Projeto](img/page.png)
