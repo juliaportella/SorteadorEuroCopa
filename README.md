@@ -1,6 +1,6 @@
 # Sorteador EuroCopa
 
-##link do projeto no GithubPages
+## Link do projeto no GithubPages
 https://juliaportella.github.io/SorteadorEuroCopa/
 
 ## Descrição
