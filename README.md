@@ -1,5 +1,8 @@
 # Sorteador EuroCopa
 
+##link do projeto no GithubPages
+https://juliaportella.github.io/SorteadorEuroCopa/
+
 ## Descrição
 
 O **Sorteador EuroCopa** é um projeto simples, mas divertido, que permite sortear jogadores e seleções de futebol para a EuroCopa. Com este projeto, você pode inserir o nome dos jogadores e o nome das seleções e realizar o sorteio de forma fácil e rápida.
